@@ -72,6 +72,7 @@
       <DependentUpon>StoreDB.mdf</DependentUpon>
     </Content>
     <Content Include="default.aspx" />
+    <Content Include="NewForm.aspx" />
     <Content Include="SellerDashboard.aspx" />
     <Content Include="Storefront.aspx" />
     <Content Include="Web.config" />
@@ -83,6 +84,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NewForm.aspx.cs">
+      <DependentUpon>NewForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewForm.aspx.designer.cs">
+      <DependentUpon>NewForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SellerDashboard.aspx.cs">

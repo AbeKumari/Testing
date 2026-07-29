@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\abe kumari\\onedrive\\desktop\\github\\testing\\project 3 (2)\\project 3\\newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\abe kumari\\onedrive\\desktop\\github\\testing\\project 3 (2)\\project 3\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SIVEG_ONEDRIVE_DESKTOP_C__PROJECT_3_APP_DATA_STOREDB.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\storefront.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:storefront.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\NewForm.aspx",
+              "RelativeDocumentMoniker": "NewForm.aspx",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\NewForm.aspx",
+              "RelativeToolTip": "NewForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-29T13:56:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Storefront.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx.cs",
+              "RelativeDocumentMoniker": "Storefront.aspx.cs",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx.cs",
+              "RelativeToolTip": "Storefront.aspx.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-07-29T13:54:32.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellerDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "SellerDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx.cs",
+              "RelativeToolTip": "SellerDashboard.aspx.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAowMkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-07-29T13:54:32.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellerDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx",
+              "RelativeDocumentMoniker": "SellerDashboard.aspx",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx",
+              "RelativeToolTip": "SellerDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-29T13:54:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx",
+              "RelativeDocumentMoniker": "default.aspx",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx",
+              "RelativeToolTip": "default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-29T13:54:32.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Storefront.aspx",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx",
+              "RelativeDocumentMoniker": "Storefront.aspx",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx",
+              "RelativeToolTip": "Storefront.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-29T13:54:32.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SIVEG_ONEDRIVE_DESKTOP_C__PROJECT_3_APP_DATA_STOREDB.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_SIVEG_ONEDRIVE_DESKTOP_C__PROJECT_3_APP_DATA_STOREDB.MDF/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-29T13:54:32.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx.cs",
+              "RelativeDocumentMoniker": "default.aspx.cs",
+              "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx.cs",
+              "RelativeToolTip": "default.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAnwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:54:32.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
