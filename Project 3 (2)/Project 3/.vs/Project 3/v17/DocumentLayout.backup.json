@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\siveg\\onedrive\\desktop\\c#\\project 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\storefront.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:storefront.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:sellerdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Storefront.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\Storefront.aspx.cs",
+              "RelativeDocumentMoniker": "Storefront.aspx.cs",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\Storefront.aspx.cs",
+              "RelativeToolTip": "Storefront.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:45:40.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Storefront.aspx",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\Storefront.aspx",
+              "RelativeDocumentMoniker": "Storefront.aspx",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\Storefront.aspx",
+              "RelativeToolTip": "Storefront.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-17T08:23:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SellerDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\SellerDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "SellerDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\SellerDashboard.aspx.cs",
+              "RelativeToolTip": "SellerDashboard.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:50:10.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SellerDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\SellerDashboard.aspx",
+              "RelativeDocumentMoniker": "SellerDashboard.aspx",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\SellerDashboard.aspx",
+              "RelativeToolTip": "SellerDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T17:40:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\default.aspx.cs",
+              "RelativeDocumentMoniker": "default.aspx.cs",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\default.aspx.cs",
+              "RelativeToolTip": "default.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:05:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\default.aspx",
+              "RelativeDocumentMoniker": "default.aspx",
+              "ToolTip": "C:\\Users\\siveg\\OneDrive\\Desktop\\c#\\Project 3\\default.aspx",
+              "RelativeToolTip": "default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-16T16:58:09.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
