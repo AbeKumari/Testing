@@ -28,7 +28,9 @@
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style4">&nbsp;</td>
+                    <td class="auto-style4">
+                        <asp:Label ID="lblAbe" runat="server" Text="Abe was here: 17:22"></asp:Label>
+                    </td>
                     <td class="auto-style4">&nbsp;</td>
                     <td class="auto-style4">&nbsp;</td>
                 </tr>

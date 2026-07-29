@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\abe kumari\\onedrive\\desktop\\github\\testing\\project 3 (2)\\project 3\\newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:newform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\abe kumari\\onedrive\\desktop\\github\\testing\\project 3 (2)\\project 3\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:storefront.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|c:\\users\\abe kumari\\onedrive\\desktop\\github\\testing\\project 3 (2)\\project 3\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{80DDD026-1CE4-4D49-A5BA-BDAEE8CEB491}|Project 3.csproj|solutionrelative:sellerdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NewForm.aspx",
               "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\NewForm.aspx",
               "RelativeDocumentMoniker": "NewForm.aspx",
@@ -65,8 +65,9 @@
               "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx.cs",
               "RelativeToolTip": "Storefront.aspx.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAswCYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2026-07-29T13:54:32.722Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:54:32.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,8 +78,9 @@
               "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx.cs",
               "RelativeToolTip": "SellerDashboard.aspx.cs",
               "ViewState": "AgIAALwAAAAAAAAAAAAowMkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2026-07-29T13:54:32.726Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:54:32.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,14 +90,13 @@
               "RelativeDocumentMoniker": "SellerDashboard.aspx",
               "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\SellerDashboard.aspx",
               "RelativeToolTip": "SellerDashboard.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-07-29T13:54:33.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "default.aspx",
               "DocumentMoniker": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\default.aspx",
               "RelativeDocumentMoniker": "default.aspx",
@@ -114,7 +115,6 @@
               "RelativeDocumentMoniker": "Storefront.aspx",
               "ToolTip": "C:\\Users\\Abe Kumari\\OneDrive\\Desktop\\Github\\Testing\\Project 3 (2)\\Project 3\\Storefront.aspx",
               "RelativeToolTip": "Storefront.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-07-29T13:54:32.634Z",
               "EditorCaption": ""
@@ -138,8 +138,7 @@
               "RelativeToolTip": "default.aspx.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAnwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T13:54:32.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T13:54:32.633Z"
             }
           ]
         }
