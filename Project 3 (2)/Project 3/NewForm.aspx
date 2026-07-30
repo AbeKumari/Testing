@@ -16,6 +16,14 @@
         .auto-style5 {
             height: 241px;
         }
+        .auto-style6 {
+            height: 240px;
+            width: 490px;
+        }
+        .auto-style7 {
+            height: 241px;
+            width: 490px;
+        }
     </style>
 </head>
 <body>
@@ -23,21 +31,23 @@
         <div>
             <table class="auto-style1">
                 <tr>
-                    <td class="auto-style4">
+                    <td class="auto-style6">
                         <asp:Label ID="lblTest01" runat="server" Text="Testing at G1 - Main Lab"></asp:Label>
                     </td>
-                    <td class="auto-style4">&nbsp;</td>
+                    <td class="auto-style4">
+                        <asp:Label ID="lblTodaysDate" runat="server" Text="2026/07/30"></asp:Label>
+                    </td>
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style4">
+                    <td class="auto-style6">
                         <asp:Label ID="lblAbe" runat="server" Text="Abe was here: 17:22"></asp:Label>
                     </td>
                     <td class="auto-style4">&nbsp;</td>
                     <td class="auto-style4">&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style5">&nbsp;</td>
+                    <td class="auto-style7">&nbsp;</td>
                     <td class="auto-style5">&nbsp;</td>
                     <td class="auto-style5">&nbsp;</td>
                 </tr>
