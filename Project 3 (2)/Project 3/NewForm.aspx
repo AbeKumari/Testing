@@ -24,7 +24,7 @@
             <table class="auto-style1">
                 <tr>
                     <td class="auto-style4">
-                        <asp:Label ID="lblChopper" runat="server" Text="Chopper is Here 16:22"></asp:Label>
+                        <asp:Label ID="lblTest01" runat="server" Text="Testing at G1 - Main Lab"></asp:Label>
                     </td>
                     <td class="auto-style4">&nbsp;</td>
                     <td class="auto-style4">&nbsp;</td>
